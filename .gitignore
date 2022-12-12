@@ -1,3 +1,5 @@
 .idea
 Leetcode/leetcode.py
 todo.txt
+*.log
+__pycache__

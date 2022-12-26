@@ -220,7 +220,7 @@ PS:题目按照 难度、题号进行排序。
 |205|栈|735.行星碰撞|中等|[我的解题](Leetcode/栈/735.行星碰撞.md)|[点击跳转](https://leetcode-cn.com/problems/asteroid-collision/solution/735xing-xing-peng-zhuang-ji-yu-zhan-qu-f-xpd1/)|
 |206|贪心|738.单调递增的数字|中等|[我的解题](Leetcode/贪心/738.单调递增的数字.md)|[点击跳转](https://leetcode-cn.com/problems/monotone-increasing-digits/solution/738dan-diao-di-zeng-de-shu-zi-tan-xin-de-79hn/)|
 |207|栈|739.每日温度|中等|[我的解题](Leetcode/栈/739.每日温度.md)|[点击跳转](https://leetcode-cn.com/problems/daily-temperatures/solution/739mei-ri-wen-du-pythondan-diao-zhan-ton-dzva/)|
-|208|DP|740.删除并获得点数|中等|[我的解题](Leetcode/DP/740.删除并获得点数.md)|[点击跳转](https://leetcode-cn.com/problems/3sum-closest/)|
+|208|DP|740.删除并获得点数|中等|[我的解题](Leetcode/DP/740.删除并获得点数(三数之和).md)|[点击跳转](https://leetcode-cn.com/problems/3sum-closest/)|
 |209|双指针|870.优势洗牌|中等|[我的解题](Leetcode/双指针/870.优势洗牌.md)|[点击跳转](None)|
 |210|二分|875.爱吃香蕉的珂珂|中等|[我的解题](Leetcode/二分/875.爱吃香蕉的珂珂.md)|[点击跳转](https://leetcode-cn.com/problems/koko-eating-bananas/solution/875-ai-chi-xiang-jiao-de-ke-ke-er-fen-ch-7you/)|
 |211|哈希表|890.查找和替换模式|中等|[我的解题](Leetcode/哈希表/890.查找和替换模式.md)|[点击跳转](None)|
